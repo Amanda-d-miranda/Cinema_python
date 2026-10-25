@@ -323,4 +323,4 @@ Abra um Pull Request 🎉
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar, estudar e modificar.
 
-<p align="center">Feito com ❤️
+
